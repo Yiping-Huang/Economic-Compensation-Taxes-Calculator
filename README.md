@@ -1,2 +1,2 @@
 # Economic-Compensation-Taxes-Calculator
-This calculator is used to calculate the economic compensation taxes with multilevel taxation. The whole formula of the taxation is showed in its core algorithm.
+This calculator is used to calculate the economic compensation taxes with multilevel taxation. The whole formula of the taxation is showed in its core algorithm. The code in the views.py is excerpted from the original file which includes the core algorithm of the ect calculator. Since it is a Django web application, I only choose to present the core algorithm here for you to review.
